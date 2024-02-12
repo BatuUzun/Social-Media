@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Batu Chatting</string>
-    <string name="title_activity_sign_up">SignUpActivity</string>
-    <string name="title_activity_home">HomeActivity</string>
-    <string name="title_activity_home_page">HomePageActivity</string>
-    <string name="title_activity_mainfgnjf">MainfgnjfActivity</string>
-    <string name="title_activity_verification">VerificationActivity</string>
-</resources>
