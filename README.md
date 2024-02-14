@@ -27,6 +27,12 @@ ${\color{red}In \space order \space to \space check \space backend \space code, 
 
 * Room Database is implemented to store local information such as "Keep me signed in".
 
+* In order to see whole project running, you can check my Google Drive.
+
+* My Google Drive: https://drive.google.com/file/d/1Er9KjNZGu7YLwarLNRI8n05q9v-B6k5r/view?usp=drive_link
+
+* For further information about me: https://www.batuuzun.com/
+
 ![socialmedia0](https://github.com/BatuUzun/Social-Media/assets/103521291/232050e3-1f2d-4487-85c4-c4e2ca79a6fa)
 ![socialmedia1](https://github.com/BatuUzun/Social-Media/assets/103521291/527dee64-b4db-4c9c-881f-457f03fd7902)
 ![socialmedia2](https://github.com/BatuUzun/Social-Media/assets/103521291/31c9a288-fd4e-46ba-97e7-b3593d72f773)
