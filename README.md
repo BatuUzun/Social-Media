@@ -9,7 +9,7 @@ ${\color{red}In \space order \space to \space check \space frontend \space code,
 
 * Users' passwords are bcrypted.
 
-* In order to verify email address, the backend generates a six-digit verification code and sends it via an email.
+* In order to verify an email address, the backend generates a six-digit verification code and sends it via an email.
 
 * Utilized Hibernate for ORM mapping and database interaction.
 
