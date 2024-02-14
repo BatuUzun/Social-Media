@@ -21,5 +21,11 @@ ${\color{red}In \space order \space to \space check \space frontend \space code,
 
 * 1:1, 1:n, n:1 relationships.
 
+* In order to see whole project running, you can check my Google Drive.
+
+* My Google Drive: https://drive.google.com/file/d/1Er9KjNZGu7YLwarLNRI8n05q9v-B6k5r/view?usp=drive_link
+
+* For further information about me: https://www.batuuzun.com/
+
 ![image](https://github.com/BatuUzun/Social-Media/assets/103521291/38e7ac3a-87a0-4083-89b7-98d277520e07)
 
