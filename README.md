@@ -11,9 +11,9 @@ ${\color{red}In \space order \space to \space check \space backend \space code, 
 
 * By default, question mark is the profile picture of all users.
 
-* Users can change their profile picture by visiting "profile" screen and clicking on "change profile picture" button.
+* Users can change their profile photo by visiting "profile" screen and clicking on "Change profile photo" button.
 
-* Users can share a new post by visiting "home page" and clicking on "new post" button.
+* Users can share a new post by visiting "home page" and clicking on "New Post" button.
 
 * Users can delete their posts as they wish.
 
@@ -25,4 +25,4 @@ ${\color{red}In \space order \space to \space check \space backend \space code, 
 
 * By clicking on a post, users can see its details such as number of likes and comments.
 
-* Room Database is implemented to store local information such as "keep me signed in".
+* Room Database is implemented to store local information such as "Keep me signed in".
