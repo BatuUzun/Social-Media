@@ -11,7 +11,7 @@ ${\color{red}In \space order \space to \space check \space frontend \space code,
 
 * In order to verify an email address, the backend generates a six-digit verification code and sends it via an email.
 
-* Utilized Hibernate for ORM mapping and database interaction.
+* Utilized Hibernate for ORM and database interaction.
 
 * RestControllers with endpoints
 
