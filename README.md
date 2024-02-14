@@ -5,7 +5,7 @@ ${\color{red}This \space branch \space includes \space backend \space code \spac
 ${\color{red}In \space order \space to \space check \space frontend \space code, \space please \space choose \space the \space branch \space -SocialMediaFrontend-}$
 
 **FEATURES**
-* Designed a CRUD Web Service for Inheritable/Non-inheritable Entities.
+* Designed a CRUD Web Service for Inheritable/Non-inheritable entities.
 
 * Users' passwords are bcrypted.
 
