@@ -1,26 +1,28 @@
-# Social Media Frontend code
+# Social Media Frontend Code
 
-This branch includes frontend code of Social Media.
-In order to check backend code, please select the branch "SocialMedia-Backend".
+${\color{red}This \space branch \space includes \space frontend \space code \space of \space Social \space Media}$
 
-In order to use the application, users must create an account, verify their email addresses and pick a username.
+${\color{red}In \space order \space to \space check \space backend \space code, \space please \space choose \space the \space branch \space SocialMediaBackend}$
 
-A user can follow/unfollow other users.
+**FEATURES**
+* In order to use the application, users must create an account, verify their email addresses and pick a username.
 
-By default, question mark is the profile picture of all users.
+* A user can follow/unfollow other users.
 
-Users can change their profile picture by visiting "profile" screen and clicking on "change profile picture" button.
+* By default, question mark is the profile picture of all users.
 
-Users can share a new post by visiting "home page" and clicking on "new post" button.
+* Users can change their profile picture by visiting "profile" screen and clicking on "change profile picture" button.
 
-Users can delete their posts as they wish.
+* Users can share a new post by visiting "home page" and clicking on "new post" button.
 
-Users can search for other users by clicking on "search" screen.
+* Users can delete their posts as they wish.
 
-A user can share his/her comment on others' posts. If the user wants to delete his/her comment, the user should double click on the comment.
+* Users can search for other users by clicking on "search" screen.
 
-A user can like a post.
+* A user can share his/her comment on others' posts. If the user wants to delete his/her comment, the user should double click on the comment.
 
-By clicking on a post, users can see its details such as number of likes and comments.
+* A user can like a post.
 
-Room Database is implemented to store local information such as "keep me signed in".
+* By clicking on a post, users can see its details such as number of likes and comments.
+
+* Room Database is implemented to store local information such as "keep me signed in".
