@@ -2,7 +2,7 @@
 
 ${\color{red}This \space branch \space includes \space frontend \space code \space of \space Social \space Media}$
 
-${\color{red}In \space order \space to \space check \space backend \space code, \space please \space choose \space the \space branch \space SocialMediaBackend}$
+${\color{red}In \space order \space to \space check \space backend \space code, \space please \space choose \space the \space branch \space -SocialMediaBackend-}$
 
 **FEATURES**
 * In order to use the application, users must create an account, verify their email addresses and pick a username.
