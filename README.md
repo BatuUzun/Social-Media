@@ -13,7 +13,7 @@ ${\color{red}In \space order \space to \space check \space frontend \space code,
 
 * Utilized Hibernate for ORM and database interaction.
 
-* RestControllers with endpoints
+* RestControllers with endpoints.
 
 * Called DAO methods from Service layer.
 
