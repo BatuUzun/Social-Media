@@ -27,13 +27,13 @@ ${\color{red}In \space order \space to \space check \space backend \space code, 
 
 * Room Database is implemented to store local information such as "Keep me signed in".
 
+![socialmedia0](https://github.com/BatuUzun/Social-Media/assets/103521291/232050e3-1f2d-4487-85c4-c4e2ca79a6fa)
+![socialmedia1](https://github.com/BatuUzun/Social-Media/assets/103521291/527dee64-b4db-4c9c-881f-457f03fd7902)
+![socialmedia2](https://github.com/BatuUzun/Social-Media/assets/103521291/31c9a288-fd4e-46ba-97e7-b3593d72f773)
+![socialmedia3](https://github.com/BatuUzun/Social-Media/assets/103521291/bf57b55f-355b-4660-9520-86a39c190a64)
+![socialmedia4](https://github.com/BatuUzun/Social-Media/assets/103521291/78b64554-9aaf-4b7b-aded-ba2a0881ca22)
+![socialmedia5](https://github.com/BatuUzun/Social-Media/assets/103521291/68d75ed8-483b-4e86-b80a-66ca3d0a6b56)
+![socialmedia6](https://github.com/BatuUzun/Social-Media/assets/103521291/e65a9b38-ca78-4bec-b4f3-9161a24bf138)
 
-![socialmedia0](https://github.com/BatuUzun/Social-Media/assets/103521291/1cf7a0c6-e2e7-43fe-9bf1-6653031a4cdb)
-![socialmedia1](https://github.com/BatuUzun/Social-Media/assets/103521291/251edbfd-a38e-4e39-af88-9560a13bf97d)
-![socialmedia2](https://github.com/BatuUzun/Social-Media/assets/103521291/bdfee35f-af05-44d1-a03c-6382e0bae3df)
-![socialmedia3](https://github.com/BatuUzun/Social-Media/assets/103521291/a861c1f8-ee7e-4550-9df1-45c85ef7c853)
-![socialmedia4](https://github.com/BatuUzun/Social-Media/assets/103521291/f48d040e-86a1-4e4c-a097-57d16cd9e455)
-![socialmedia5](https://github.com/BatuUzun/Social-Media/assets/103521291/91361fe0-c4c2-4ba2-9726-93deafc81202)
-![socialmedia6](https://github.com/BatuUzun/Social-Media/assets/103521291/1fdb72d2-7af2-48dc-916b-d94d2872fdfe)
 
 
